@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Guillem!
+# Hi there 👋, my name is Guillem!
 #### Mathematics, Computer Science and Engineering enthusiast
 I am a Mathematics graduate at Universitat Autònoma de Barcelona and on my free time I like to program.
 
