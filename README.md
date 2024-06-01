@@ -8,7 +8,6 @@ If you are reading this you are on my GitHub page. Here I will publish and share
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutusaus&size_weight=0.4&count_weight=0.6&custom_title=Most%20used%20languages&theme=vue-dark&layout=compact&langs_count=12&cache_seconds=1800&hide=jupyter%20notebook" />
 </a>
 
-
 Skills: C / Python / R / SQL / C++ / TeX / HTML
 
 - 🔭 I’m currently working on this page. 
