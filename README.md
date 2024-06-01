@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Guillem!
-#### Mathematics, Computer Science and Engineering enthusiast
+### Mathematics, Computer Science and Engineering enthusiast
 I am a Mathematics graduate at Universitat Autònoma de Barcelona and on my free time I like to program.
 
 If you are reading this you are on my GitHub page. Here I will publish and share all the work that I do related to Mathematics, Computer Science and Enginnering. If you are interested in getting to know me better follow the links bellow or reach out.
