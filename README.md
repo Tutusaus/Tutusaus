@@ -2,8 +2,9 @@
 ### Mathematics, Computer Science and Engineering enthusiast
 I am a Mathematics graduate at Universitat Autònoma de Barcelona and on my free time I like to program.
 
+If you are reading this you are on my GitHub page. Here I will publish and share all the work that I do related to Mathematics, Computer Science and Enginnering. If you are interested in getting to know me better follow the links bellow or reach out.
+
 <a href=https://github.com/Tutusaus>
-  If you are reading this you are on my GitHub page. Here I will publish and share all the work that I do related to Mathematics, Computer Science and Enginnering. If you are interested in getting to know me better follow the links bellow or reach out.
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutusaus&size_weight=0.4&count_weight=0.6&custom_title=Most%20used%20languages&theme=vue-dark&layout=compact&langs_count=12&cache_seconds=1800&hide=jupyter%20notebook" />
 </a>
 
