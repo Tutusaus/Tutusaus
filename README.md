@@ -2,14 +2,14 @@
 ### Mathematics, Computer Science and Engineering enthusiast
 I am a Mathematics graduate at Universitat Autònoma de Barcelona and on my free time I like to program.
 
-If you are reading this you are on my GitHub page. Here I will publish and share all the work that I do related to Mathematics, Computer Science and Enginnering. If you are interested in getting to know me better follow the links bellow and don't mind reaching out.
+If you are reading this you are on my GitHub page. Here I publish and share all the projects and work that I do related to Mathematics, Computer Science and Enginnering. If you are interested in getting to know me better follow the links bellow and don't mind reaching out.
 
 <a href=https://github.com/Tutusaus>
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Tutusaus&custom_title=My%20Github%20Stats%21&theme=vue-dark&count_private=true&include_all_commits=true&show_icons=true&cache_seconds=1800" />
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutusaus&size_weight=0.4&count_weight=0.6&custom_title=Most%20used%20languages&theme=vue-dark&layout=compact&langs_count=12&cache_seconds=1800&hide=jupyter%20notebook" />
 </a>
 
-Skills: C / Python / R / SQL / C++ / TeX / HTML
+Stack: C / Python / R / SQL / C++ / TeX / HTML / Java
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on any Aeronautical or Aerospace projects. 
